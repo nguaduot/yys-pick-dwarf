@@ -3,9 +3,9 @@
 [![Release](https://img.shields.io/badge/Release-v1.0-brightgreen.svg)]()
 [![Download](https://img.shields.io/badge/Download-EXE-brightgreen.svg)](pick-dwarf-1.0.exe)
 
-检出六星满级低成长御魂（副属性满4条的基础上加点次数不超过3）
+检出六星满级低收益御魂（副属性满4条的基础上加点次数不超过3）
 
-低成长如：
+低收益如：
 ```
 [陆]火灵 6/15
 攻击加成 55%
