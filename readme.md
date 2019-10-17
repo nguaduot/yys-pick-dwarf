@@ -19,7 +19,7 @@
 
 支持读取 NGA@火电太热 的[**御魂导出器**](https://nga.178.com/read.php?tid=15220479)导出的JSON数据文件
 
-该工具同时发布到NGA论坛阴阳师板块：
+该工具同时发布到NGA论坛阴阳师板块：[https://nga.178.com/read.php?tid=18917735&_ff=538](https://nga.178.com/read.php?tid=18917735&_ff=538)
 
 ### 使用
 
