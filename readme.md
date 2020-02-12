@@ -1,7 +1,11 @@
 # 御魂检出器
 
-[![Release](https://img.shields.io/badge/Release-v2.0-brightgreen.svg)]()
+[![Release](https://img.shields.io/badge/Release-v2.0-brightgreen.svg)](https://github.com/nguaduot/yys-pick-dwarf)
 [![Download](https://img.shields.io/badge/Download-EXE-brightgreen.svg)](pick-dwarf-2.0.exe)
+
+> 不会在记事本用Python写代码的程序猿的不是好痒痒鼠
+>
+> ![quanxi_6.png](https://i.loli.net/2020/02/12/RZirhtAc1CYeI43.png)
 
 ### 这是个啥，我用得上吗？
 
@@ -94,9 +98,10 @@
 ### 更新日志
 
 v2.0.200212
-+ 调整低收益御魂判定逻辑，依据为御魂分数（何为御魂分数，可以参考 NGA@YYSKernel 大佬的[这篇帖子](https://bbs.nga.cn/read.php?tid=15818432&fav=38632a10)）
-+ 增设规则文件，可自定义评定御魂分数的有效属性和分数线（提供一套根据我的御魂整理策略转化的规则文件）
++ 重构：调整低收益御魂判定逻辑，依据为御魂分数（何为御魂分数，可以参考 NGA@YYSKernel 大佬的[这篇帖子](https://bbs.nga.cn/read.php?tid=15818432&fav=38632a10)）
++ 增设规则文件，可为每颗御魂设定有效属性和分数线（提供一套根据我的御魂整理策略转化的规则文件）
 + 补充新御魂数据：兵主部、青女房、涂佛、飞缘魔
++ 异常捕获，若出现未知错误请将信息反馈给作者
 
 v1.4.191022
 + 支持读取「痒痒熊快照」的数据文件
