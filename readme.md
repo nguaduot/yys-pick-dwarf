@@ -3,10 +3,6 @@
 [![Release](https://img.shields.io/badge/Release-v2.0-brightgreen.svg)](https://github.com/nguaduot/yys-pick-dwarf)
 [![Download](https://img.shields.io/badge/Download-EXE-brightgreen.svg)](pick-dwarf-2.0.exe)
 
-> 不会在记事本用Python写代码的程序猿的不是好痒痒鼠
->
-> ![quanxi_6.png](https://i.loli.net/2020/02/12/RZirhtAc1CYeI43.png)
-
 ### 这是个啥，我用得上吗？
 
 [**阴阳师**](https://yys.163.com/)游戏衍生小工具，用于检出六星满级低收益御魂（由**御魂分数**决定，即有效属性加点次数）。
@@ -91,7 +87,11 @@
 
 ### 作者
 
-「初心未改」区@**南瓜多糖**，痒痒鼠相关问题欢迎来找我讨论，代码改进或漏洞也欢迎一起交流。
+> “不会在记事本用Python写小工具的程序猿的不是好痒痒鼠！”
+>
+> —「初心未改」区@**南瓜多糖**
+
+痒痒鼠相关问题欢迎来找我讨论，代码改进或漏洞也欢迎一起交流。
 
 ![本PVE玩家有一个梦想：全图鉴六星](https://i.loli.net/2020/02/11/QgnHXcG4jZMBzp5.png)
 
