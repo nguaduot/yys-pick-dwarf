@@ -1,0 +1,276 @@
+{
+  "data": {
+    "currency": {},
+    "hero_book_shards": [],
+    "hero_equip_presets": [],
+    "hero_equips": [
+      {
+        "attrs": [
+          {
+            "type": "Attack",
+            "value": 26.694054425390995
+          },
+          {
+            "type": "DefenseRate",
+            "value": 0.024754714446142325
+          }
+        ],
+        "base_attr": {
+          "type": "Speed",
+          "value": 12.0
+        },
+        "born": 1583219297,
+        "equip_id": 120006,
+        "garbage": true,
+        "id": "5e5e72e1d8e1df347b15c787",
+        "level": 0,
+        "lock": false,
+        "pos": 1,
+        "quality": 6,
+        "random_attr_rates": [
+          {
+            "type": "Attack",
+            "value": 0.9886686824218888
+          },
+          {
+            "type": "DefenseRate",
+            "value": 0.8251571482047442
+          }
+        ],
+        "random_attrs": [
+          {
+            "type": "Attack",
+            "value": 26.694054425390995
+          },
+          {
+            "type": "DefenseRate",
+            "value": 0.024754714446142325
+          }
+        ],
+        "single_attrs": [],
+        "suit_id": 300006
+      },
+      {
+        "attrs": [
+          {
+            "type": "AttackRate",
+            "value": 0.05099989839965946
+          },
+          {
+            "type": "Speed",
+            "value": 5.662810674605007
+          },
+          {
+            "type": "CritPower",
+            "value": 0.15148707945575532
+          },
+          {
+            "type": "EffectHitRate",
+            "value": 0.03941701292530068
+          }
+        ],
+        "base_attr": {
+          "type": "Hp",
+          "value": 2052.0
+        },
+        "born": 1551645878,
+        "equip_id": 150006,
+        "garbage": false,
+        "id": "5c7cad364425464d3e14b8cf",
+        "level": 15,
+        "lock": true,
+        "pos": 4,
+        "quality": 6,
+        "random_attr_rates": [
+          {
+            "type": "CritPower",
+            "value": 3.787176986393883
+          },
+          {
+            "type": "AttackRate",
+            "value": 1.6999966133219822
+          },
+          {
+            "type": "Speed",
+            "value": 1.887603558201669
+          },
+          {
+            "type": "EffectHitRate",
+            "value": 0.985425323132517
+          }
+        ],
+        "random_attrs": [
+          {
+            "type": "AttackRate",
+            "value": 0.05099989839965946
+          },
+          {
+            "type": "Speed",
+            "value": 5.662810674605007
+          },
+          {
+            "type": "CritPower",
+            "value": 0.15148707945575532
+          },
+          {
+            "type": "EffectHitRate",
+            "value": 0.03941701292530068
+          }
+        ],
+        "single_attrs": [],
+        "suit_id": 300010
+      },
+      {
+        "attrs": [
+          {
+            "type": "Defense",
+            "value": 4.253295310485725
+          },
+          {
+            "type": "Attack",
+            "value": 96.46510467524917
+          },
+          {
+            "type": "HpRate",
+            "value": 0.027207562086881788
+          },
+          {
+            "type": "Speed",
+            "value": 8.699424330141571
+          }
+        ],
+        "base_attr": {
+          "type": "AttackRate",
+          "value": 0.55
+        },
+        "born": 1535353987,
+        "equip_id": 160006,
+        "garbage": false,
+        "id": "5b8415034425460272f87c36",
+        "level": 15,
+        "lock": false,
+        "pos": 5,
+        "quality": 6,
+        "random_attr_rates": [
+          {
+            "type": "Attack",
+            "value": 3.5727816546388578
+          },
+          {
+            "type": "Speed",
+            "value": 2.89980811004719
+          },
+          {
+            "type": "HpRate",
+            "value": 0.9069187362293928
+          },
+          {
+            "type": "Defense",
+            "value": 0.8506590620971449
+          }
+        ],
+        "random_attrs": [
+          {
+            "type": "Defense",
+            "value": 4.253295310485725
+          },
+          {
+            "type": "Attack",
+            "value": 96.46510467524917
+          },
+          {
+            "type": "HpRate",
+            "value": 0.027207562086881788
+          },
+          {
+            "type": "Speed",
+            "value": 8.699424330141571
+          }
+        ],
+        "single_attrs": [],
+        "suit_id": 300019
+      },
+      {
+        "attrs": [
+          {
+            "type": "Attack",
+            "value": 24.535595060349564
+          },
+          {
+            "type": "DefenseRate",
+            "value": 0.13161232299282616
+          },
+          {
+            "type": "AttackRate",
+            "value": 0.0545195614085704
+          },
+          {
+            "type": "Speed",
+            "value": 2.6976128306589193
+          }
+        ],
+        "base_attr": {
+          "type": "Defense",
+          "value": 104.0
+        },
+        "born": 1577934944,
+        "equip_id": 130006,
+        "garbage": false,
+        "id": "5e0dd0e060c89c41256bf09e",
+        "level": 15,
+        "lock": false,
+        "pos": 2,
+        "quality": 6,
+        "random_attr_rates": [
+          {
+            "type": "Speed",
+            "value": 0.8992042768863064
+          },
+          {
+            "type": "AttackRate",
+            "value": 1.8173187136190136
+          },
+          {
+            "type": "Attack",
+            "value": 0.9087257429759098
+          },
+          {
+            "type": "DefenseRate",
+            "value": 4.3870774330942055
+          }
+        ],
+        "random_attrs": [
+          {
+            "type": "Attack",
+            "value": 24.535595060349564
+          },
+          {
+            "type": "DefenseRate",
+            "value": 0.13161232299282616
+          },
+          {
+            "type": "AttackRate",
+            "value": 0.0545195614085704
+          },
+          {
+            "type": "Speed",
+            "value": 2.6976128306589193
+          }
+        ],
+        "single_attrs": [
+          {
+            "type": "CritRate",
+            "value": 0.08
+          }
+        ],
+        "suit_id": 300052
+      }
+    ],
+    "heroes": [],
+    "player": {},
+    "realm_cards": [],
+    "story_tasks": []
+  },
+  "timestamp": "2020-05-08T18:20:52.019371300+08:00",
+  "version": "0.99.2"
+}
