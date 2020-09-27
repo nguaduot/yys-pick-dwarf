@@ -1,6 +1,6 @@
 # 御魂检出器
 
-[![Release](https://img.shields.io/badge/Release-v3.0-brightgreen.svg)](https://github.com/nguaduot/yys-pick-dwarf)
+[![Release](https://img.shields.io/badge/Release-v3.1-brightgreen.svg)](https://github.com/nguaduot/yys-pick-dwarf)
 [![Download](https://img.shields.io/badge/Download-EXE-brightgreen.svg)](yys-pick-dwarf.exe)
 
 ### 这是个啥，我用得上吗？
@@ -101,7 +101,7 @@
 
 「御魂检出器」的本质为处理其他小工具导出的数据文本，并非与[阴阳师桌面版](https://yys.163.com/zmb/)有直接关联，也不会影响游戏运行，请放心使用。
 
-+ 支持读取 NGA@火电太热 大佬的[**御魂导出器**](https://nga.178.com/read.php?tid=15220479)导出的 JSON 数据文件
++ 支持读取 NGA@火电太热 大佬的[**御魂导出器 for 新客户端**](https://nga.178.com/read.php?tid=23251576)导出的 JSON 数据文件
 + 支持读取 NGA@fluxxu 大佬的[**痒痒熊快照**](https://nga.178.com/read.php?tid=16557282)导出的 JSON 数据文件
 + 支持读取藏宝阁数据
 
@@ -136,6 +136,9 @@
 ![本PVE玩家有一个梦想：全图鉴六星](https://i.loli.net/2020/02/11/QgnHXcG4jZMBzp5.png)
 
 ### 更新日志
+
+v3.1.200927
++ 支持 NGA@火电太热 的「御魂导出器for新客户端」导出的数据（感谢大佬对新引擎桌面版的跟进适配）
 
 v3.0.200811
 * NGA@高冷少年w 大佬的御魂 Hub 最近上线的「奉纳」功能太赞了！可以按规则筛选未强化的御魂。但不会筛选强化过的御魂，看来本鼠这个筛选满级御魂的小工具仍有用武之地，所以又掏出来更新一波

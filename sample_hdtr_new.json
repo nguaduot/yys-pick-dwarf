@@ -1,0 +1,70 @@
+{
+  "ocr_info": {
+    "version": 4.2
+  },
+  "user_info": {},
+  "equip_drawers": [],
+  "equip_data": [
+    {
+      "id": "5f2be5e588e8a056534ab96d",
+      "born": 1596712421,
+      "suit_id": 300022,
+      "pos": 1,
+      "level": 0,
+      "quality": 6,
+      "base_attr": {
+        "Attack": 81.0
+      },
+      "rand_attr": {
+        "CritPower": 0.03545922040939331,
+        "DefenseRate": 0.025604102611541748
+      },
+      "garbage": false,
+      "lock": false,
+      "weared": false,
+      "single_attr": 0
+    },
+    {
+      "id": "5dc4b7ca4516bf4fb5f873d0",
+      "born": 1573173194,
+      "suit_id": 300034,
+      "pos": 4,
+      "level": 15,
+      "quality": 6,
+      "base_attr": {
+        "EffectHitRate": 0.55
+      },
+      "rand_attr": {
+        "DefenseRate": 0.028129214644432066,
+        "Attack": 68.68086504936218,
+        "EffectHitRate": 0.036495599746704105,
+        "Hp": 290.609676361084
+      },
+      "garbage": false,
+      "lock": false,
+      "weared": true,
+      "single_attr": 0
+    },
+    {
+      "id": "5ee17fc788e8a08e5e03f2db",
+      "born": 1591836615,
+      "suit_id": 300077,
+      "pos": 1,
+      "level": 15,
+      "quality": 6,
+      "base_attr": {
+        "Attack": 486.0
+      },
+      "rand_attr": {
+        "AttackRate": 0.10499865531921386,
+        "HpRate": 0.057271167039871215,
+        "Speed": 2.6489208340644836,
+        "EffectResistRate": 0.06501965045928955
+      },
+      "garbage": false,
+      "lock": true,
+      "weared": true,
+      "single_attr": 4
+    }
+  ]
+}
